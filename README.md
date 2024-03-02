@@ -7,6 +7,10 @@ This assignement looks into the differnece between recursive and imperative impl
 
 
 ## goals
-- [x] use vcs or GitHub
+- [x] use vcs for GitHub
 - [x] use .gitignore
 - [x] setup README in markdown syntax
+- [x] perform Floyd Warshall alogrithm using imperative method
+- [x] perform Floyd Warshall algorithm using recursion method
+- [x] perform unit tests on imperative and recusion codes
+- [x] perform profiling tests on imperative and recusion codes
